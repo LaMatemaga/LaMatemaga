@@ -32,9 +32,17 @@ I’m a data analyst.
 
 ## About me  
 - 🎓 I just finished my Bachelor of Science in Mathematics degree!
+
+
 - 👩🏻‍🏫 I am working on mathematics content for programmers to make it easier to understand. Math shoukd be fun!
+
+
 - 🌱 I’m currently learning about Google Cloud Platform
+
+
 - 🙋🏻‍♀️ I love volunteering for events related to Inclusion & Diversity! I'm currently a Women Techmaker Ambassador
+
+
 - 😂 Fun fact: I made my first dashboard using Google Sheets. And it was for an AR game! It helped us coordinate multiple sites at the same time
 <br/>  
 
