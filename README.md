@@ -20,7 +20,11 @@
 
 
 ### Happy to see you around!  
-I’m a data analyst.  
+I am a data analyst working for a local fintech. I studied mathematics as a profession and I love science.
+
+I also have three years of experience in data science, particularly in the area of Bioinformatics. In these projects, I was in charge of data mining and pre-processing. However, I was also very involved in the presentation of results, so I have experience giving talks to audiences from different areas (biology, mathematics, and computer science) and to non-specialized audiences.
+
+Thanks to this I developed a taste for communication for Mathematics, Technology and Science.
 
 <br/>  
 
@@ -64,7 +68,7 @@ I’m a data analyst.
 
 
 ## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=LaMatemaga&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 50%" />
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaMatemaga&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=radical" align="center" style="width: 35%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=LaMatemaga&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 50%" />
+</p>
