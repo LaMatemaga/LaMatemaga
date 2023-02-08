@@ -22,7 +22,7 @@
 ### Happy to see you around!  
 I am a data analyst working for a local fintech. I studied mathematics as a profession and I love science.
 
-I also have three years of experience in data science, particularly in the area of Bioinformatics. In these projects, I was in charge of data mining and pre-processing. However, I was also very involved in the presentation of results, so I have experience giving talks to audiences from different areas (biology, mathematics, and computer science) and to non-specialized audiences.
+I also have three years of experience in Data Science, particularly in the area of Bioinformatics. In these projects, I was in charge of data mining and pre-processing. However, I was also very involved in the presentation of results, so I have experience giving talks to audiences from different areas (biology, mathematics, and computer science) and to non-specialized audiences.
 
 Thanks to this I developed a taste for communication for Mathematics, Technology and Science.
 
@@ -42,13 +42,13 @@ Thanks to this I developed a taste for communication for Mathematics, Technology
 - 👩🏻‍🏫 I am working on [mathematics content for developers](https://github.com/LaMatemaga/CF-Matematicas) to make it easier to understand. Math should be fun!
 
 
-- 🌱 I’m currently learning about Google Cloud Platform
+- 🌱 I’m currently learning about Rust and Amazon Web Services
 
 
 - 🙋🏻‍♀️ I love volunteering for events related to Inclusion & Diversity! I'm currently a [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo)
 
 
-- 😂 Fun fact: I made my first dashboard using Google Sheets. And it was for an AR game! It helped us coordinate multiple sites at the same time
+- 😂 Fun fact: I made my first dashboard using Google Sheets. And it was for an AR game called [Ingress](https://www.ingress.com/)! It helped us coordinate multiple sites at the same time
 <br/>  
 
 
