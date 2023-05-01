@@ -39,7 +39,7 @@ Thanks to this I developed a taste for communication for Mathematics, Technology
 - 🥳 I just finished my Bachelor of Science in Mathematics degree!
 
 
-- 👩🏻‍🏫 I am working on [mathematics content for developers](https://github.com/LaMatemaga/CF-Matematicas) to make it easier to understand. Math should be fun!
+- 👩🏻‍🏫 I am working on [mathematics content for developers](https://github.com/LaMatemaga/CF-Matematicas) to make it easier to understand. Math should be fun! I'm also working on [material to learn how to code in R](https://github.com/LaMatemaga/Introduccion-a-R). Both repositories are in Spanish!
 
 
 - 🌱 I’m currently learning about Rust and Amazon Web Services
