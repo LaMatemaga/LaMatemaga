@@ -45,7 +45,10 @@ Thanks to this I developed a taste for communication for Mathematics, Technology
 - 🌱 I’m currently learning about Databricks (for the ML Associate Certification) and Amazon Web Services (for the Cloud Practitioner Certification)
 
 
-- 🙋🏻‍♀️ I love volunteering for events! I'm currently an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23ai-ml&awsf.location=location%23latam&awsf.year=year%232023), [AWS User Group Colead](https://www.meetup.com/es-ES/awsugmty/), a [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo), and [GDG Monterrey Coorganizer](https://gdg.community.dev/gdg-monterrey-1/)
+- 🙋🏻‍♀️ I love volunteering for events and sharing knowledge! I'm currently part of the [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23ai-ml&awsf.location=location%23latam&awsf.year=year%232023) and [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo) programs
+
+
+- I love being involved in communities too! I'm an [AWS User Group](https://www.meetup.com/es-ES/awsugmty/) Colead, [GDG Monterrey](https://gdg.community.dev/gdg-monterrey-1/) Coorganizer, and member of the [Sociedad Matemática Mexicana](https://www.smm.org.mx/membresias)
 
 
 - 😂 Fun fact: I made my first dashboard using Google Sheets. And it was for an AR game called [Ingress](https://www.ingress.com/)! It helped us coordinate multiple sites at the same time
