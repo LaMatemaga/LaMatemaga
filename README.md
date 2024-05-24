@@ -20,11 +20,11 @@
 
 
 ### Happy to see you around!  
-I am a data analyst working for a local fintech. I studied mathematics as a profession and I love science.
+Hello! I am a data engineer working for a technology solutions company. I hold a degree in Mathematics and have a passion for science and technology.
 
-I also have three years of experience in Data Science, particularly in the area of Bioinformatics. In these projects, I was in charge of data mining and pre-processing. However, I was also very involved in the presentation of results, so I have experience giving talks to audiences from different areas (biology, mathematics, and computer science) and to non-specialized audiences.
+With three years of experience in Data Science, particularly in Bioinformatics, I've honed my skills in data mining, pre-processing, and presenting results. I enjoy communicating complex concepts to diverse audiences, whether they are from biology, mathematics, computer science, or the general public.
 
-Thanks to this I developed a taste for communication for Mathematics, Technology and Science.
+My work fuels my enthusiasm for promoting Mathematics, Technology, and Science.
 
 <br/>  
 
@@ -42,7 +42,10 @@ Thanks to this I developed a taste for communication for Mathematics, Technology
 - 👩🏻‍🏫 I am working on [mathematics content for developers](https://github.com/LaMatemaga/CF-Matematicas) to make it easier to understand. Math should be fun! I'm also working on [material to learn how to code in R](https://github.com/LaMatemaga/Introduccion-a-R). Both repositories are in Spanish!
 
 
-- 🌱 I’m currently learning about Databricks (for the ML Associate Certification) and Amazon Web Services (for the Cloud Practitioner Certification)
+- 🌱 I’m currently preparing myself for a Salesforce certification and an Azure certification
+
+
+- ☁️ I currently have an AWS Cloud Practitioner Certification
 
 
 - 🙋🏻‍♀️ I love volunteering for events and sharing knowledge! I'm currently part of the [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23ai-ml&awsf.location=location%23latam&awsf.year=year%232023) and [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo) programs
