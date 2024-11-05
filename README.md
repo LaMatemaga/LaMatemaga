@@ -17,7 +17,7 @@
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCOxOlmUM93jYts1AWYdWJVA?style=social">
 </p>
 
-
+Si te encuentras conmigo en el **Data Day 2024** y estás buscando el tutorial de **Great Expectations**, puedes encontrarlo en [este link](https://colab.research.google.com/drive/12h85cmsvo2DYn68i05xR7k5zsqcJo4_2?usp=sharing).
 
 ### Happy to see you around!  
 Hello! I am a data engineer working for a technology solutions company. I hold a degree in Mathematics and have a passion for science and technology.
