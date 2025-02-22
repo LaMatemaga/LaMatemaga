@@ -32,29 +32,35 @@ I believe **Math, Technology, and Science should be for everyone**, and I love c
 <br/>  
 
 
-## About me  
-- 🐈 Cat person and 🎮 Zelda fan -- I share my space with a fluffy companion named _Parmigiano Reggiano_, and my favorite Zelda game is The Wind Waker!
+## About me
+**🐈 Cat person and 🎮 Zelda fan**
+I share my space with a fluffy companion named _Parmigiano Reggiano_, and my favorite Zelda game is The Wind Waker!
 
+**🍵 Tea enthusiast**
+I keep a Notion page where I rate all my teas from 1 to 7 stars—but I'm also down for a coffee ☕️ or a beer 🍻
 
-- 🍵 Tea enthusiast -- I keep a Notion page where I rate all my teas from 1 to 7 stars—but I'm also down for a coffee ☕️ or a beer 🍻
+**👩🏻‍🏫 Math & Code Educator**
+I’m working on making math fun and accessible for developers with my [Mathematics for Developers repo](https://github.com/LaMatemaga/CF-Matematicas) Also, if you're into learning R, check out my [Intro to R materials](https://github.com/LaMatemaga/Introduccion-a-R). Both are in Spanish!
 
+**🌱 Currently Learning**
+I'm preparing for the AWS Solutions Architect Associate certification to deepen my cloud knowledge
 
-- 👩🏻‍🏫 Math & Code Educator -- I’m working on making math fun and accessible for developers with my [Mathematics for Developers repo](https://github.com/LaMatemaga/CF-Matematicas) Also, if you're into learning R, check out my [Intro to R materials](https://github.com/LaMatemaga/Introduccion-a-R). Both are in Spanish!
+**☁️ Certified in Cloud & Data Science**
+I hold the AWS Cloud Practitioner Certificate and Azure Data Scientist Associate Certification
 
+**🙋🏻‍♀️ Community & Volunteering**
+I love sharing knowledge and helping others grow! I'm part of:
+- [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23ai-ml&awsf.location=location%23latam&awsf.year=year%232023)
+- [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo)
+- [AWS User Group Monterrey](https://www.meetup.com/es-ES/awsugmty/) - Co-Lead
+- [GDG Monterrey](https://gdg.community.dev/gdg-monterrey-1/) - Co-Organizer
+- Member of the [Mexican Mathematical Society](https://www.smm.org.mx/membresias)
 
-- 🌱 Currently Learning -- I'm preparing for the AWS Solutions Architect Associate certification to deepen my cloud knowledge
+**😂 Fun fact**
+The first dashboard I ever built? It was in Google Sheets—for an AR game called [Ingress](https://www.ingress.com/)! It helped coordinate multiple sites at once, and yes, it was a total nerdy win.
 
-
-- ☁️ Certified in Cloud & Data Science -- I hold the AWS Cloud Practitioner Certificate and Azure Data Scientist Associate Certification
-
-
-- 🙋🏻‍♀️ Community & Volunteering --! I'm currently part of the [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23ai-ml&awsf.location=location%23latam&awsf.year=year%232023) and [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo) programs
-
-
-- I love being involved in communities too! I'm an [AWS User Group](https://www.meetup.com/es-ES/awsugmty/) Colead, [GDG Monterrey](https://gdg.community.dev/gdg-monterrey-1/) Coorganizer, and member of the [Sociedad Matemática Mexicana](https://www.smm.org.mx/membresias)
-
-
-- 😂 Fun fact -- The first dashboard I ever built? It was in Google Sheets—for an AR game called [Ingress](https://www.ingress.com/)! It helped coordinate multiple sites at once, and yes, it was a total nerdy win.
+---------
+✨ Let's connect! Whether you're into data science, cloud, math, or just geeky stuff, feel free to reach out! 🚀
 <br/>  
 
 
