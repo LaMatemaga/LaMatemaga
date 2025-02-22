@@ -22,42 +22,39 @@ Si te encuentras conmigo en el **Data Day 2024** y estás buscando el tutorial d
 <br/>  
 
 
-### Happy to see you around!  
-Hello! I am a data engineer working for a technology solutions company. I hold a degree in Mathematics and have a passion for science and technology.
+### Happy to see you around!
+Hey there! I'm **Cynthia**, a data analyst working in the automation industry with a background in **Mathematics**. I have a deep passion for **science**, **technology**, and **data**, and my career has taken me through diverse roles—from **data engineering in tech consulting** to **data analysis in banking**, and even **bioinformatics in academic research**.
 
-With three years of experience in Data Science, particularly in Bioinformatics, I've honed my skills in data mining, pre-processing, and presenting results. I enjoy communicating complex concepts to diverse audiences, whether they are from biology, mathematics, computer science, or the general public.
+With **four years of experience in Data Science**, I specialize in **data mining**, **preprocessing**, and **visualization**, making complex insights **accessible to diverse audiences**—-whether they come from biology, mathematics, computer science, or just curiosity.
 
-My work fuels my enthusiasm for promoting Mathematics, Technology, and Science.
+I believe **Math, Technology, and Science should be for everyone**, and I love creating content that makes them more approachable 🚀
 
 <br/>  
 
 
 ## About me  
-- 🐈 Cat person and 🎮 Zelda fan
+- 🐈 Cat person and 🎮 Zelda fan -- I share my space with a fluffy companion named _Parmigiano Reggiano_, and my favorite Zelda game is The Wind Waker!
 
 
-- 🍵 Tea lover, but wouldn't mind sharing a coffee ☕️ or a beer 🍻
+- 🍵 Tea enthusiast -- I keep a Notion page where I rate all my teas from 1 to 7 stars—but I'm also down for a coffee ☕️ or a beer 🍻
 
 
-- 🥳 I just finished my Bachelor of Science in Mathematics degree this year!
+- 👩🏻‍🏫 Math & Code Educator -- I’m working on making math fun and accessible for developers with my [Mathematics for Developers repo](https://github.com/LaMatemaga/CF-Matematicas) Also, if you're into learning R, check out my [Intro to R materials](https://github.com/LaMatemaga/Introduccion-a-R). Both are in Spanish!
 
 
-- 👩🏻‍🏫 I am working on [mathematics content for developers](https://github.com/LaMatemaga/CF-Matematicas) to make it easier to understand. Math should be fun! I'm also working on [material to learn how to code in R](https://github.com/LaMatemaga/Introduccion-a-R). Both repositories are in Spanish!
+- 🌱 Currently Learning -- I'm preparing for the AWS Solutions Architect Associate certification to deepen my cloud knowledge
 
 
-- 🌱 I’m currently preparing myself for a Salesforce certification and an Azure certification
+- ☁️ Certified in Cloud & Data Science -- I hold the AWS Cloud Practitioner Certificate and Azure Data Scientist Associate Certification
 
 
-- ☁️ I currently have an AWS Cloud Practitioner Certification
-
-
-- 🙋🏻‍♀️ I love volunteering for events and sharing knowledge! I'm currently part of the [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23ai-ml&awsf.location=location%23latam&awsf.year=year%232023) and [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo) programs
+- 🙋🏻‍♀️ Community & Volunteering --! I'm currently part of the [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23ai-ml&awsf.location=location%23latam&awsf.year=year%232023) and [Women Techmaker Ambassador](https://www.womentechmakers.com/ambassadors/profiles/6373c8aa108c6b079a57f968/cynthia_castillo) programs
 
 
 - I love being involved in communities too! I'm an [AWS User Group](https://www.meetup.com/es-ES/awsugmty/) Colead, [GDG Monterrey](https://gdg.community.dev/gdg-monterrey-1/) Coorganizer, and member of the [Sociedad Matemática Mexicana](https://www.smm.org.mx/membresias)
 
 
-- 😂 Fun fact: I made my first dashboard using Google Sheets. And it was for an AR game called [Ingress](https://www.ingress.com/)! It helped us coordinate multiple sites at the same time
+- 😂 Fun fact -- The first dashboard I ever built? It was in Google Sheets—for an AR game called [Ingress](https://www.ingress.com/)! It helped coordinate multiple sites at once, and yes, it was a total nerdy win.
 <br/>  
 
 
