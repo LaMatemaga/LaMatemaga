@@ -59,10 +59,16 @@ I love sharing knowledge and helping others grow! I'm part of:
 **😂 Fun fact**
 The first dashboard I ever built? It was in Google Sheets—for an AR game called [Ingress](https://www.ingress.com/)! It helped coordinate multiple sites at once, and yes, it was a total nerdy win.
 
----------
+
 ✨ Let's connect! Whether you're into data science, cloud, math, or just geeky stuff, feel free to reach out! 🚀
 <br/>  
 
+
+## Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<br/> 
 
 ## Languages and Tools  
 <div align="center">  
