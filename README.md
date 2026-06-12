@@ -48,8 +48,11 @@
 
 ## A few things about me
 
-🐱 Two cats: **Parmesano** (orange tuxedo) and **Trufa** (black tuxedo)
-🎮 Zelda & Fire Emblem fan · 🍵 Tea enthusiast · 🌿 Gardening · 🧘 Pilates
+- 🐱 Two cats: **Parmesano** (orange tuxedo) and **Trufa** (black tuxedo)
+- 🎮 Zelda & Fire Emblem fan
+- 🍵 Tea enthusiast
+- 🌿 Gardening
+- 🧘 Pilates
 
 
 ✨ *Let's connect if you're into math, data, or building things that make knowledge more accessible.* ✨
